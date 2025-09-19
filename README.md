@@ -2,7 +2,7 @@
 
 Stand: 12.09.25
 
-## 1. Akzeptabilitätsstudien Steigerungsunmlaut
+## 1. Akzeptabilitätsstudien 
 
 (Wird noch ergänzt.)
 
