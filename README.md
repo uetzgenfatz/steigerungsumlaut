@@ -88,7 +88,6 @@ Bei der Annotation der alemannischen Daten wurde dasselbe Annotationsschema wie 
 
 ## 2. Neuauswertung Wenkerdaten
 
-
 ### 2.1 Vorarbeiten und Status quo
 
 Originalkartierungen zum Steigerungsumlaut:
@@ -290,11 +289,8 @@ Für das Farbschema wurde Colorbrewer benutzt: [https://colorbrewer2.org/#type=s
 
 ### Literatur
 
-Fleischer, Jürg (2017a): Syntax und Arealität: Methoden und Resultate eines syntaktischen Wenker-Atlas. In: Helen
-Christen, Peter Gilles und Christoph Purschke (Hgg.): Räume, Grenzen, Übergänge. Akten des. 5. Kongresses der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD): 137–164, 389–391. (Zeitschrift für Dialektologie und Linguistik – Beihefte; 171) Stuttgart: Steiner.
 
-Fleischer, Jürg (2017b): Geschichte, Anlage und Durchführung der Fragebogen-Erhebungen von Georg Wenkers 40 Sätzen. Dokumentation, Entdeckungen und Neubewertungen. (Deutsche Dialektgeographie; 123). Hildesheim [u.a.]: Olms.
-
+Fleischer, Jürg (2017): Geschichte, Anlage und Durchführung der Fragebogen-Erhebungen von Georg Wenkers 40 Sätzen. Dokumentation, Entdeckungen und Neubewertungen. (Deutsche Dialektgeographie; 123). Hildesheim [u.a.]: Olms.
 
 Jutz, Leo (1960): Vorarlbergisches Wörterbuch mit Einschluß des Fürstentums Liechtenstein. Bd. 1: A–I, J. Wien: Adolf Holzhausens Nachfolger.
 
