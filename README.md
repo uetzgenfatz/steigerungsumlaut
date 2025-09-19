@@ -2,9 +2,13 @@
 
 Stand: 12.09.25
 
-## 1. Daten zum Gebrauchsstandard vs. Alemannisch
+## 1. Akzeptabilitätsstudien Steigerungsunmlaut
 
-### 1.1 Vorarbeiten
+(Wird noch ergänzt.)
+
+## 2. Daten zum Gebrauchsstandard vs. Alemannisch
+
+### 2.1 Vorarbeiten
 
 Ein einem esten Schritt wurden die 300 häufigsten Adjektive aus Ruoff (1990: 493–495) exzerpiert und die Einsilbler nach dem Stammvokal und nach dem Auslaut annotiert (Tabelle `Adjektiv-Rohdaten Ruof`). Bei den ersten hundert Verben wurde dies auch bei Mehrsilblern getan.
 
@@ -40,11 +44,11 @@ Bei den Stammvokalen ergibt sich folgende Verteilung:
 
 (ei, ö, ü usw. sind nicht relevant, da sie nicht umlautfähig sind.)
 
-### 1.2 Finale Stichprobe
+### 2.2 Finale Stichprobe
 
 Die Untersuchung zum Gebrauchsstandard umfasst eine Liste von 122 Adjektiven mit umlautfähigem Stammvokal, die ich aus Ruoff (1990: 493–495) und Nowak (2017) zusammengestellt wurden. Die Daten zum Vorarlberger Alemannischen beziehen sich auf dieselben Adjektive. Da einzelne dieser Adjektive basismundartlich nicht vorhanden sind, wurden diese ignoriert.
 
-### 1.3 Einzelne Annotationen
+### 2.3 Einzelne Annotationen
 
 * `Adjektiv`
 * `Umlaut Standard`: Einschätzung anhand der Angaben bei Nowak (2017: 79–80, 85); Attribute ,ja‘, ,nein‘ und ,variabel‘ (letzteres bei der log. Regression verworfen)
@@ -86,9 +90,9 @@ Bei der Annotation der alemannischen Daten wurde dasselbe Annotationsschema wie 
 * `Kommentar Jutz`: weitere Informationen bzw. Erläuterungen zu den Angaben im VWB
 
 
-## 2. Neuauswertung Wenkerdaten
+## 3. Neuauswertung Wenkerdaten
 
-### 2.1 Vorarbeiten und Status quo
+### 3.1 Vorarbeiten und Status quo
 
 Originalkartierungen zum Steigerungsumlaut:
 
@@ -100,7 +104,7 @@ Originalkartierungen zum Steigerungsumlaut:
 * WA: 219 (groß) www.regionalsprache.de/Map/tlfmpOBq 
 	* Lemma _größer_ wurde nicht kartiert 
 
-### 2.2 Ausgewertete Wenkersätze
+### 3.2 Ausgewertete Wenkersätze
 
 Die Sätze werden nach Fleischer (2017: 181–182) zitiert, und zwar nach der Version, wie sie für die süddeutsche Erhebung verwendet wurde.
 
@@ -119,7 +123,7 @@ Pluralumlaut:
 * [WS 33:] Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
 
 
-### 2.3 Auswertungen
+### 3.3 Auswertungen
 
 WS 16 [groß/größer]:
 
@@ -138,7 +142,7 @@ WS 22/31 [laut/lauter]:
 * Arbitrarisierung der Umlautalternationen mittels Cramérs V
 
 
-### 2.4 Weitergehende Analyse
+### 3.4 Weitergehende Analyse
 
 Für die Umlautalternationen (a) _laut/lauter_ vs. _Haus/Häuser_ und (b) _groß/größer_ vs. _Vögelchen_ wurde die Übereinstimmung der Alternationen mittels  Cohens Kappa berechnet.
 
@@ -159,7 +163,7 @@ Interpretation von Kappa nach Landis und Koch (1977)
 	0.61 – 0.80 = substanziell
 	0.81 – 1.00 = fast perfekt
 
-### 2.5. Kartierungen
+### 3.5 Kartierungen
 
 Bei allen Kartierungen wurden in einem Schritt die 9 häufigsten Varianten kartiert, jedoch erwies sich diese Vorgehensweise als nicht praktikabel. Alternativ wurden, ausgehend von den häufigsten Varianten, zwei Typen von Alternationen kartiert:
 
